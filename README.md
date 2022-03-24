@@ -2,6 +2,9 @@
 
 [Ruby Naming Conventions](https://gist.github.com/iangreenleaf/b206d09c587e8fc6399e)
 
+## Front-end Demo
+A visual demonstration of the front-end of the applpicaiton is viewable in the file titled FrontendDemo.mp4
+
 ##  Executing The Application
 The following instructions will clone this application and install the necessary dependencies.
 ```bash
