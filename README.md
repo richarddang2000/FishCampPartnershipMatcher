@@ -2,8 +2,6 @@
 
 [Ruby Naming Conventions](https://gist.github.com/iangreenleaf/b206d09c587e8fc6399e)
 
-# README
-
 ##  Executing The Application
 The following instructions will clone this application and install the necessary dependencies.
 ```bash
